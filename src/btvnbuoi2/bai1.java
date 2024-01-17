@@ -22,7 +22,7 @@ package btvnbuoi2;
 			else   {
 				max = c;}
 		System.out.println("so lon nhat la: " + max);
-
+		
 //2
 		System.out.println("Nhap vao so diem can xet: ");
 		float x = scanner.nextFloat();
